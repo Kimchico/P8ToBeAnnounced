@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-P8_VR_Home.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\qwe_o\P8ToBeAnnounced\P8_VR_Home\Intermediate\Build\Win64\P8_VR_HomeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\qwe_o\P8ToBeAnnounced\P8_VR_Home\Intermediate\Build\Win64\UE4Editor\Development\P8_VR_Home\P8_VR_Home.cpp.obj"
+"C:\Users\qwe_o\P8ToBeAnnounced\P8_VR_Home\Intermediate\Build\Win64\UE4Editor\Development\P8_VR_Home\TextFileManager.cpp.obj"
+"C:\Users\qwe_o\P8ToBeAnnounced\P8_VR_Home\Intermediate\Build\Win64\UE4Editor\Development\P8_VR_Home\P8_VR_Home.init.gen.cpp.obj"
+"C:\Users\qwe_o\P8ToBeAnnounced\P8_VR_Home\Intermediate\Build\Win64\UE4Editor\Development\P8_VR_Home\TextFileManager.gen.cpp.obj"
+"C:\Users\qwe_o\P8ToBeAnnounced\P8_VR_Home\Intermediate\Build\Win64\UE4Editor\Development\P8_VR_Home\Default.rc2.res"
+/OUT:"C:\Users\qwe_o\P8ToBeAnnounced\P8_VR_Home\Intermediate\Build\Win64\UE4Editor\Development\P8_VR_Home\UE4Editor-P8_VR_Home.lib"

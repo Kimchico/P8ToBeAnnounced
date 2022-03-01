@@ -1,0 +1,720 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "P8_VR_Home Mac Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"Mac",
+				"Debug",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home Mac Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"Mac",
+				"Debug",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"P8_VR_Home Mac Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home Mac Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"Mac",
+				"Debug",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home Mac DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"Mac",
+				"DebugGame",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home Mac DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"Mac",
+				"DebugGame",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"P8_VR_Home Mac DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home Mac DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"Mac",
+				"DebugGame",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home Mac Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"Mac",
+				"Development",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home Mac Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"Mac",
+				"Development",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"P8_VR_Home Mac Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home Mac Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"Mac",
+				"Development",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home Mac Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"Mac",
+				"Shipping",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home Mac Shipping Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"Mac",
+				"Shipping",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"P8_VR_Home Mac Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home Mac Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"Mac",
+				"Shipping",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home Mac Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"Mac",
+				"Test",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home Mac Test Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"Mac",
+				"Test",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"P8_VR_Home Mac Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home Mac Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"Mac",
+				"Test",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home IOS Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"IOS",
+				"Debug",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home IOS Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"IOS",
+				"Debug",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"P8_VR_Home IOS Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home IOS Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"IOS",
+				"Debug",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home IOS DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"IOS",
+				"DebugGame",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home IOS DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"IOS",
+				"DebugGame",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"P8_VR_Home IOS DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home IOS DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"IOS",
+				"DebugGame",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home IOS Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"IOS",
+				"Development",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home IOS Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"IOS",
+				"Development",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"P8_VR_Home IOS Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home IOS Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"IOS",
+				"Development",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home IOS Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"IOS",
+				"Shipping",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home IOS Shipping Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"IOS",
+				"Shipping",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"P8_VR_Home IOS Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home IOS Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"IOS",
+				"Shipping",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home IOS Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"IOS",
+				"Test",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home IOS Test Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"IOS",
+				"Test",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"P8_VR_Home IOS Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_Home IOS Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_Home",
+				"IOS",
+				"Test",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_HomeEditor Mac Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_HomeEditor",
+				"Mac",
+				"Debug",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_HomeEditor Mac Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_HomeEditor",
+				"Mac",
+				"Debug",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"P8_VR_HomeEditor Mac Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_HomeEditor Mac Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_HomeEditor",
+				"Mac",
+				"Debug",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_HomeEditor Mac DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_HomeEditor",
+				"Mac",
+				"DebugGame",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_HomeEditor Mac DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_HomeEditor",
+				"Mac",
+				"DebugGame",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"P8_VR_HomeEditor Mac DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_HomeEditor Mac DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_HomeEditor",
+				"Mac",
+				"DebugGame",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_HomeEditor Mac Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_HomeEditor",
+				"Mac",
+				"Development",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_HomeEditor Mac Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_HomeEditor",
+				"Mac",
+				"Development",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"P8_VR_HomeEditor Mac Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		},
+		{
+			"label": "P8_VR_HomeEditor Mac Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Mac/Build.sh",
+			"args": [
+				"P8_VR_HomeEditor",
+				"Mac",
+				"Development",
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/Users/Shared/Epic Games/UE_4.27"
+			}
+		}
+	]
+}

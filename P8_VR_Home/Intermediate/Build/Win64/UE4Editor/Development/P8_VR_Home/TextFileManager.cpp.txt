@@ -1,0 +1,3 @@
+C:\Users\qwe_o\P8ToBeAnnounced\P8_VR_Home\Intermediate\Build\Win64\UE4Editor\Development\P8_VR_Home\Definitions.P8_VR_Home.h
+C:\Users\qwe_o\P8ToBeAnnounced\P8_VR_Home\Source\P8_VR_Home\TextFileManager.h
+C:\Users\qwe_o\P8ToBeAnnounced\P8_VR_Home\Intermediate\Build\Win64\UE4Editor\Inc\P8_VR_Home\TextFileManager.generated.h
