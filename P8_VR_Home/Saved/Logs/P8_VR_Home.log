@@ -1047,3 +1047,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.28-10.42.57:572][  1]LogResonanceAudio: Display: Resonance Audio Listener is initialized
 [2022.03.28-10.42.57:883][  3]LogAssetRegistry: Asset discovery search completed in 25.0669 seconds
 [2022.03.28-10.42.57:901][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2022.03.28-10.52.48:869][980]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.28-10.52.57:967][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.03.28-10.52.58:278][  7]LogSavePackage: Moving 'C:/Users/qwe_o/P8ToBeAnnounced/P8_VR_Home/Saved/VRTemplateMap_Auto11DAB679844269B22A1FC399727428A58.tmp' to 'C:/Users/qwe_o/P8ToBeAnnounced/P8_VR_Home/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap'
+[2022.03.28-10.52.58:339][  7]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.385
+[2022.03.28-10.52.58:339][  7]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.385
