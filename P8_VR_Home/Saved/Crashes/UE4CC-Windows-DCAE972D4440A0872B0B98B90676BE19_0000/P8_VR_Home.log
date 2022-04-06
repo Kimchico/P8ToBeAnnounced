@@ -1,0 +1,1894 @@
+﻿Log file open, 04/06/22 12:24:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: P8_VR_Home
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.192814
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin DataprepEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin VariantManager
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin ResonanceAudio
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin OculusOpenXR
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: FOculusHMDModule PreInit successfully
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 9 5900HS with Radeon Graphics        , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=Teirrken -epicuserid=dfb2d60c641c4fbc9eea0e112e889e93 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Engine.ini]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.MobileMSAA:4]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2022.04.06-10.24.26:486][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[vr.MobileMultiView:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[r.Mobile.SupportGPUScene:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Engine.ini]
+[2022.04.06-10.24.26:487][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Engine.ini]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Engine.ini]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.04.06-10.24.26:487][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Engine.ini]
+[2022.04.06-10.24.26:487][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Engine.ini]
+[2022.04.06-10.24.26:489][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.06-10.24.26:489][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.06-10.24.26:490][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.06-10.24.26:490][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.04.06-10.24.26:490][  0]LogHAL: Display: Platform has ~ 16 GB [16542703616 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.04.06-10.24.26:490][  0]LogInit: Going up to parent DeviceProfile []
+[2022.04.06-10.24.26:490][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.06-10.24.26:490][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.04.06-10.24.26:491][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Engine.ini]
+[2022.04.06-10.24.26:491][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Config/Windows/Editor.ini]
+[2022.04.06-10.24.26:491][  0]LogInit: Computer: DAVID
+[2022.04.06-10.24.26:491][  0]LogInit: User: dmock
+[2022.04.06-10.24.26:491][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.04.06-10.24.26:491][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.04.06-10.24.26:491][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2022.04.06-10.24.26:491][  0]LogMemory: Platform Memory Stats for Windows
+[2022.04.06-10.24.26:491][  0]LogMemory: Process Physical Memory: 152.06 MB used, 152.06 MB peak
+[2022.04.06-10.24.26:491][  0]LogMemory: Process Virtual Memory: 137.06 MB used, 137.06 MB peak
+[2022.04.06-10.24.26:491][  0]LogMemory: Physical Memory: 5943.36 MB used,  9832.99 MB free, 15776.35 MB total
+[2022.04.06-10.24.26:491][  0]LogMemory: Virtual Memory: 134203712.00 MB used,  14014.34 MB free, 134217728.00 MB total
+[2022.04.06-10.24.26:496][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.04.06-10.24.26:510][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.04.06-10.24.26:511][  0]LogInit: Using OS detected language (en-US).
+[2022.04.06-10.24.26:511][  0]LogInit: Using OS detected locale (en-US).
+[2022.04.06-10.24.26:513][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.04.06-10.24.26:642][  0]LogInit: Setting process to per monitor DPI aware
+[2022.04.06-10.24.26:649][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.06-10.24.26:657][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.04.06-10.24.26:657][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.04.06-10.24.26:741][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.04.06-10.24.26:765][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.04.06-10.24.26:765][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.04.06-10.24.26:765][  0]LogD3D11RHI: D3D11 adapters:
+[2022.04.06-10.24.26:828][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (Feature Level 11_0)
+[2022.04.06-10.24.26:828][  0]LogD3D11RHI:       3990/0/7888 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.04.06-10.24.26:848][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2022.04.06-10.24.26:848][  0]LogD3D11RHI:       496/0/7888 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2022.04.06-10.24.26:849][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.04.06-10.24.26:850][  0]LogD3D11RHI:       0/0/7888 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.04.06-10.24.26:850][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.04.06-10.24.26:850][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2022.04.06-10.24.26:850][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.06-10.24.26:850][  0]LogD3D11RHI:     DeviceId    : 25a0
+[2022.04.06-10.24.26:850][  0]LogD3D11RHI:     SubSysId    : 14ec1043
+[2022.04.06-10.24.26:850][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.06-10.24.26:850][  0]LogD3D11RHI:     DedicatedVideoMemory : 4183818240 bytes
+[2022.04.06-10.24.26:850][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.06-10.24.26:850][  0]LogD3D11RHI:     SharedSystemMemory : 8271351808 bytes
+[2022.04.06-10.24.26:850][  0]LogD3D11RHI:     AdapterLuid : 0 54198
+[2022.04.06-10.24.26:855][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.04.06-10.24.26:855][  0]LogD3D11RHI:     GPU DeviceId: 0x25a0 (for the marketing name, search the web for "GPU Device Id")
+[2022.04.06-10.24.26:855][  0]LogWindows: EnumDisplayDevices:
+[2022.04.06-10.24.26:855][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2022.04.06-10.24.26:855][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.04.06-10.24.26:855][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.04.06-10.24.26:855][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.04.06-10.24.26:855][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (P:0 D:0)
+[2022.04.06-10.24.26:855][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (P:0 D:0)
+[2022.04.06-10.24.26:856][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (P:0 D:0)
+[2022.04.06-10.24.26:856][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (P:0 D:0)
+[2022.04.06-10.24.26:856][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.04.06-10.24.26:856][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2022.04.06-10.24.26:856][  0]LogD3D11RHI:   Driver Version: 462.13 (internal:27.21.14.6213, unified:462.13)
+[2022.04.06-10.24.26:856][  0]LogD3D11RHI:      Driver Date: 3-24-2021
+[2022.04.06-10.24.26:856][  0]LogRHI: Texture pool is 2793 MB (70% of 3990 MB)
+[2022.04.06-10.24.26:856][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.04.06-10.24.26:856][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2022.04.06-10.24.26:856][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.06-10.24.26:856][  0]LogD3D11RHI:     DeviceId    : 25a0
+[2022.04.06-10.24.26:856][  0]LogD3D11RHI:     SubSysId    : 14ec1043
+[2022.04.06-10.24.26:856][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.06-10.24.26:856][  0]LogD3D11RHI:     DedicatedVideoMemory : 4183818240 bytes
+[2022.04.06-10.24.26:856][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.06-10.24.26:856][  0]LogD3D11RHI:     SharedSystemMemory : 8271351808 bytes
+[2022.04.06-10.24.26:856][  0]LogD3D11RHI:     AdapterLuid : 0 54198
+[2022.04.06-10.24.26:899][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.04.06-10.24.26:899][  0]LogD3D11RHI: Async texture creation enabled
+[2022.04.06-10.24.26:899][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.04.06-10.24.26:912][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.04.06-10.24.26:922][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.04.06-10.24.27:111][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.04.06-10.24.27:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.04.06-10.24.27:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.04.06-10.24.27:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.04.06-10.24.27:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.04.06-10.24.27:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.04.06-10.24.27:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.04.06-10.24.27:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.04.06-10.24.27:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.04.06-10.24.27:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.04.06-10.24.27:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.04.06-10.24.27:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.04.06-10.24.27:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.04.06-10.24.27:152][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.04.06-10.24.27:156][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.04.06-10.24.27:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.04.06-10.24.27:162][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.04.06-10.24.27:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.04.06-10.24.27:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.04.06-10.24.27:177][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.04.06-10.24.27:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.04.06-10.24.27:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.04.06-10.24.27:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.04.06-10.24.27:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.04.06-10.24.27:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.04.06-10.24.27:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.04.06-10.24.27:224][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.04.06-10.24.27:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.04.06-10.24.27:233][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.04.06-10.24.27:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.04.06-10.24.27:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.04.06-10.24.27:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.04.06-10.24.27:244][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.04.06-10.24.27:250][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.04.06-10.24.27:271][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.04.06-10.24.27:295][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.04.06-10.24.27:295][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Intermediate/Shaders/WorkingDirectory/15920/).
+[2022.04.06-10.24.27:295][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dmock/AppData/Local/Temp/UnrealShaderWorkingDir/F8DFDD3B48EDA5D68C4AE8974586EAB9/'.
+[2022.04.06-10.24.27:295][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.04.06-10.24.27:295][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.04.06-10.24.27:295][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.04.06-10.24.27:837][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.04.06-10.24.27:889][  0]LogDerivedDataCache: Loaded boot cache 0.05s 140MB C:/Users/dmock/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.04.06-10.24.27:889][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dmock/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.04.06-10.24.27:890][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.04.06-10.24.27:890][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.04.06-10.24.27:890][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.06-10.24.27:890][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.04.06-10.24.27:904][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.04.06-10.24.27:904][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.06-10.24.27:904][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.04.06-10.24.27:910][  0]LogDerivedDataCache: Speed tests for C:/Users/dmock/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.04.06-10.24.27:910][  0]LogDerivedDataCache: Display: Performance to C:/Users/dmock/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=363.13MBs, RandomWriteSpeed=261.10MBs. Assigned SpeedClass 'Local'
+[2022.04.06-10.24.27:911][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dmock/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.04.06-10.24.27:911][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.04.06-10.24.27:911][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.04.06-10.24.27:946][  0]LogSlate: Using FreeType 2.10.0
+[2022.04.06-10.24.27:947][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.04.06-10.24.27:963][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2022.04.06-10.24.28:137][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.06-10.24.28:137][  0]LogInit: Active device profile: [0000026553596A00][0000026550B4C740 49] Windows
+[2022.04.06-10.24.28:138][  0]LogInit: Profiles: [0000026553596A00][0000026550B4C740 49] Windows, [0000026553559800][0000026550B548C0 49] WindowsNoEditor, [0000026553595800][0000026550B58A40 49] WindowsServer, [000002655355A900][0000026550B5CBC0 49] WindowsClient, [0000026553596B00][000002655168AD40 49] IOS, [0000026553559500][000002655168EEC0 49] iPadAir, [0000026553595600][0000026550B51000 49] iPadAir2, [00000265534F7300][0000026551697240 49] IPadPro, [00000265534F7400][0000026551693280 49] iPadAir3, [0000026553596F00][000002655169B3C0 49] iPadAir4, [00000265534F5D00][00000265516A3540 49] iPadMini2, [0000026553595700][00000265516A76C0 49] iPadMini3, [00000265534F7900][00000265516BF840 49] iPadMini4, [0000026553595E00][00000265516C39C0 49] iPadMini5, [000002655350EC00][000002655173A100 49] iPhone6, [000002655350ED00][0000026551736140 49] iPodTouch6, [00000265534F4D00][0000026543ECC400 49] iPhone7, [00000265534F4C00][0000026543EC8440 49] iPodTouch7, [000002655350DC00][0000026543ED05C0 49] iPhone5S, [00000265534F7500][0000026543ED4740 49] iPhone6Plus, [000002655350F300][0000026543ED88C0 49] iPhone6S, [00000265534F4A00][0000026543EDCA40 49] iPhone6SPlus, [000002655350EE00][00000265445F2BC0 49] iPhone7Plus, [00000265534F5600][00000265445F6D40 49] iPhoneSE, [000002655350DD00][00000265445FAEC0 49] iPhone8, [00000265534F6600][000002654E5D9040 49] iPhone8Plus, [000002655350D200][000002655169F180 49] iPhoneX, [00000265534F5300][00000265517472C0 49] iPhoneXS, [000002655350C200][0000026551767400 49] iPhoneXSMax, [00000265534F5E00][000002655176F540 49] iPhoneXR, [000002655350F400][000002655177B6C0 49] iPhone11, [00000265534F7700][0000026551707840 49] iPhone11Pro, [000002655350D100][00000265517139C0 49] iPhone11ProMax, [00000265534F6B00][0000026551717B40 49] iPhoneSE2, [000002655350FF00][000002655171A140 49] iPhone12Mini, [00000265534F4E00][000002655171E2C0 49] iPhone12, [000002655350CC00][0000026551722440 49] iPhone12Pro, [00000265534F7200][000002655172E5C0 49] iPhone12ProMax, [000002655350FE00][0000026551732740 49] iPadPro105, [00000265534F5700][0000026543E4A8C0 49] iPadPro129, [000002655350EF00][0000026551370A40 49] iPadPro97, [00000265534F6100][0000026543E74BC0 49] iPadPro2_129, [000002655350FB00][0000026543E78D40 49] iPad5, [00000265534F7F00][0000026543EACEC0 49] iPad6, [000002655350C300][0000026543EBB040 49] iPad7, [00000265534F5200][00000265513751C0 49] iPad8, [000002655350F000][0000026544579340 49] iPadPro11, [00000265535E8D00][0000026551777480 49] iPadPro2_11, [000002655355B600][00000265445B75C0 49] iPadPro3_129, [00000265535E8300][000002654E57B700 49] iPadPro4_129, [000002655355A400][00000265507DB880 49] AppleTV, [00000265535E8B00][00000265507DFA00 49] AppleTV4K, [000002655355AA00][00000265507E3B80 49] TVOS, [00000265535E9700][0000026543E20180 49] Mac, [000002655355BA00][0000026543E24300 49] MacClient, [00000265535E9000][0000026543E28480 49] MacNoEditor, [000002655355AF00][0000026543E2C600 49] MacServer, [00000265535E9600][0000026543E30780 49] Linux, [0000026553559B00][000002654E5BA900 49] LinuxAArch64, [00000265535E9400][0000026543E46A80 49] LinuxNoEditor, [0000026553558600][0000026551054C00 49] LinuxAArch64NoEditor, [00000265535E8200][000002655105CD80 49] LinuxClient, [000002655355A700][0000026551064F00 49] LinuxAArch64Client, [000002655350C900][0000026551069080 49] LinuxServer, [00000265534F6900][000002655106D200 49] LinuxAArch64Server, [000002655350E400][0000026551071380 49] Android, [00000265534F6200][0000026551075500 49] Android_Low, [000002655350D600][00000265507D7640 49] Android_Mid, [00000265534F6400][0000026551079780 49] Android_High, [000002655350FC00][000002655107D8C0 49] Android_Default, [00000265534F5400][0000026551085A40 49] Android_Adreno4xx, [000002655350D300][0000026551089BC0 49] Android_Adreno5xx_Low, [00000265534F6300][00000265510961C0 49] Android_Adreno5xx, [000002655350C100][000002655109A340 49] Android_Adreno6xx, [00000265534F6A00][000002655109E4C0 49] Android_Adreno6xx_Vulkan, [000002655350F600][00000265510A2640 49] Android_Mali_T6xx, [00000265534F7A00][00000265510B07C0 49] Android_Mali_T7xx, [000002655350E700][00000265507AA940 49] Android_Mali_T8xx, [00000265534F6E00][00000265507B6AC0 49] Android_Mali_G71, [000002655350D900][00000265507BEC40 49] Android_Mali_G72, [00000265534F6500][00000265507C2DC0 49] Android_Mali_G72_Vulkan, [000002655350C500][00000265507D2F40 49] Android_Mali_G76, [00000265534F5100][0000026550F6D0C0 49] Android_Mali_G76_Vulkan, [000002655350C800][0000026553A93240 49] Android_Mali_G77, [00000265534F5C00][0000026553AAD3C0 49] Android_Mali_G77_Vulkan, [000002655350D400][0000026553AB7540 49] Android_Mali_G78, [00000265534F6700][0000026553AF76C0 49] Android_Mali_G78_Vulkan, [000002655350D000][0000026551081800 49] Android_Mali_G710, [00000265534F5800][00000265445BB940 49] Android_Mali_G710_Vulkan, [000002655350CD00][00000265445BFA80 49] Android_Vulkan_SM5, [00000265534F6000][00000265445C3BC0 49] Android_PowerVR_G6xxx, [00000265535E8400][00000265445CA1C0 49] Android_PowerVR_GT7xxx, [00000265534F5500][00000265445CE340 49] Android_PowerVR_GE8xxx, [00000265535E8F00][00000265445D24C0 49] Android_PowerVR_GM9xxx, [00000265534F6C00][00000265445D6640 49] Android_PowerVR_GM9xxx_Vulkan, [0000026553596700][0000026550D8C7C0 49] Android_TegraK1, [0000026553559200][0000026550D90940 49] Android_Unknown_Vulkan, [0000026553596200][0000026550DE4AC0 49] Lumin, [000002655355AC00][0000026550DEEC40 49] Lumin_Desktop, [0000026553596600][0000026550DF8DC0 49] HoloLens, 
+[2022.04.06-10.24.28:233][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.04.06-10.24.28:233][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.04.06-10.24.28:233][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.04.06-10.24.28:233][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.04.06-10.24.28:233][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.04.06-10.24.28:244][  0]LogNetVersion: P8_VR_Home 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1173850688)
+[2022.04.06-10.24.28:499][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.04.06-10.24.28:540][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.04.06-10.24.28:545][  0]LogUObjectArray: 17075 objects as part of root set at end of initial load.
+[2022.04.06-10.24.28:545][  0]LogUObjectAllocator: 4275792 out of 0 bytes used by permanent object pool.
+[2022.04.06-10.24.28:545][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.04.06-10.24.28:736][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: FFEEEEA34BED0446A2BE73B597211EDB | Instance: 68C23C0A4AEE0AA3DA47249089AEBAFD (DAVID-15920).
+[2022.04.06-10.24.28:763][  0]LogPython: Using Python 3.7.7
+[2022.04.06-10.24.29:207][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.04.06-10.24.29:211][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.04.06-10.24.29:330][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.04.06-10.24.29:683][  0]LogOpenImageDenoise: OIDN starting up
+[2022.04.06-10.24.29:723][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.04.06-10.24.29:735][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.06-10.24.29:735][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.06-10.24.29:836][  0]SourceControl: Source control is disabled
+[2022.04.06-10.24.29:837][  0]SourceControl: Source control is disabled
+[2022.04.06-10.24.29:839][  0]SourceControl: Source control is disabled
+[2022.04.06-10.24.29:841][  0]SourceControl: Source control is disabled
+[2022.04.06-10.24.29:846][  0]SourceControl: Source control is disabled
+[2022.04.06-10.24.29:851][  0]LogUProjectInfo: Found projects:
+[2022.04.06-10.24.29:854][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.04.06-10.24.29:855][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.04.06-10.24.29:855][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.04.06-10.24.29:861][  0]LogCollectionManager: Loaded 0 collections in 0.001092 seconds
+[2022.04.06-10.24.29:880][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Collections/' took 0.00s
+[2022.04.06-10.24.29:880][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Content/Developers/dmock/Collections/' took 0.00s
+[2022.04.06-10.24.29:880][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Content/Collections/' took 0.00s
+[2022.04.06-10.24.29:880][  0]LogOcInput: OculusInput pre-init called
+[2022.04.06-10.24.30:036][  0]LogEngine: Initializing Engine...
+[2022.04.06-10.24.30:036][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.04.06-10.24.30:036][  0]LogHMD: Initializing OVRPlugin session
+[2022.04.06-10.24.30:159][  0]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2022.04.06-10.24.30:159][  0]LogHMD: Oculus plugin initialized. Version: 4.27.2-18319896+++UE4+Release-4.27, OVRPlugin: 1.59.0
+[2022.04.06-10.24.30:160][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.04.06-10.24.30:253][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.04.06-10.24.30:261][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.04.06-10.24.30:267][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.04.06-10.24.30:269][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.04.06-10.24.30:270][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.04.06-10.24.30:271][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.04.06-10.24.30:271][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.04.06-10.24.30:271][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.06-10.24.30:271][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.06-10.24.30:271][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.06-10.24.30:271][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.06-10.24.30:271][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.04.06-10.24.30:271][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.06-10.24.30:271][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.04.06-10.24.30:271][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.06-10.24.30:271][  0]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.04.06-10.24.30:271][  0]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.04.06-10.24.30:271][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.06-10.24.30:271][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.06-10.24.30:277][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-10.24.30:277][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-10.24.30:283][  0]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.04.06-10.24.30:284][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.06-10.24.30:286][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.06-10.24.30:286][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.06-10.24.30:287][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.06-10.24.30:287][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.06-10.24.30:287][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.06-10.24.30:288][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.06-10.24.30:288][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.06-10.24.30:288][  0]LogInit: FAudioDevice initialized.
+[2022.04.06-10.24.30:288][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.04.06-10.24.30:288][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.04.06-10.24.30:347][  0]LogDerivedDataCache: Saved boot cache 0.06s 140MB C:/Users/dmock/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.04.06-10.24.30:349][  0]LogInit: Texture streaming: Enabled
+[2022.04.06-10.24.30:359][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.04.06-10.24.30:361][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.04.06-10.24.30:361][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.04.06-10.24.30:362][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.04.06-10.24.30:384][  0]LogInit: Transaction tracking system initialized
+[2022.04.06-10.24.30:400][  0]BlueprintLog: New page: Editor Load
+[2022.04.06-10.24.30:446][  0]LocalizationService: Localization service is disabled
+[2022.04.06-10.24.30:463][  0]TimingProfiler: Initialize
+[2022.04.06-10.24.30:463][  0]TimingProfiler: OnSessionChanged
+[2022.04.06-10.24.30:463][  0]LoadingProfiler: Initialize
+[2022.04.06-10.24.30:463][  0]LoadingProfiler: OnSessionChanged
+[2022.04.06-10.24.30:463][  0]NetworkingProfiler: Initialize
+[2022.04.06-10.24.30:463][  0]NetworkingProfiler: OnSessionChanged
+[2022.04.06-10.24.30:463][  0]MemoryProfiler: Initialize
+[2022.04.06-10.24.30:463][  0]MemoryProfiler: OnSessionChanged
+[2022.04.06-10.24.30:689][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.04.06-10.24.30:690][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.04.06-10.24.30:690][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.04.06-10.24.30:748][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.04.06-10.24.30:748][  0]LogCook: Display: Mobile HDR setting 0
+[2022.04.06-10.24.30:888][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Content/' took 0.01s
+[2022.04.06-10.24.30:888][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.04.06-10.24.30:890][  0]SourceControl: Source control is disabled
+[2022.04.06-10.24.30:890][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.162
+[2022.04.06-10.24.30:890][  0]Cmd: MAP LOAD FILE="../../../../../../Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Content/VRTemplate/Maps/VRTemplateMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.06-10.24.30:890][  0]LightingResults: New page: Lighting Build
+[2022.04.06-10.24.30:891][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-10.24.30:891][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-10.24.30:891][  0]MapCheck: New page: Map Check
+[2022.04.06-10.24.30:891][  0]LightingResults: New page: Lighting Build
+[2022.04.06-10.24.30:895][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.06-10.24.30:897][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.04.06-10.24.31:146][  0]LogLinker: Warning: Asset '../../../../../../Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Content/Materials/PP_Outliner_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2022.04.06-10.24.31:147][  0]LogLinker: Warning: Asset '../../../../../../Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Content/Materials/MF_ConvolveTexture.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2022.04.06-10.24.31:147][  0]LogLinker: Warning: Asset '../../../../../../Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Content/Materials/MF_ExtractDepth.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2022.04.06-10.24.31:147][  0]LogLinker: Warning: Asset '../../../../../../Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Content/Materials/MF_SampleSceneTextureNeighbourUVs.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2022.04.06-10.24.31:385][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Marwa/shuttersNew/Group_688_2_001.Group_688_2_001.
+[2022.04.06-10.24.31:385][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Marwa/shuttersNew/Group_688_2_001.Group_688_2_001:BodySetup_0 when we are unable to.
+[2022.04.06-10.24.31:385][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Marwa/shuttersNew/Group_658_001.Group_658_001.
+[2022.04.06-10.24.31:385][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Marwa/shuttersNew/Group_658_001.Group_658_001:BodySetup_0 when we are unable to.
+[2022.04.06-10.24.31:386][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Marwa/shuttersNew/Group_629_001.Group_629_001.
+[2022.04.06-10.24.31:386][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Marwa/shuttersNew/Group_629_001.Group_629_001:BodySetup_0 when we are unable to.
+[2022.04.06-10.24.31:386][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Marwa/shuttersNew/Group_621_001.Group_621_001.
+[2022.04.06-10.24.31:386][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Marwa/shuttersNew/Group_621_001.Group_621_001:BodySetup_0 when we are unable to.
+[2022.04.06-10.24.31:394][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Marwa/shuttersNew/Group_167_001.Group_167_001.
+[2022.04.06-10.24.31:394][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Marwa/shuttersNew/Group_167_001.Group_167_001:BodySetup_0 when we are unable to.
+[2022.04.06-10.24.31:515][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRTemplateMap'.
+[2022.04.06-10.24.31:515][  0]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.04.06-10.24.31:540][  0]PIE: Warning: AttachTo: '/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Empty_002.DefaultSceneRoot1' is not static  (in blueprint "Blinds"), cannot attach '/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Empty_002.DefaultSceneRoot' which is static to it. Aborting.
+[2022.04.06-10.24.31:540][  0]PIE: Warning: AttachTo: '/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Empty_002.DefaultSceneRoot1' is not static  (in blueprint "Blinds"), cannot attach '/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Empty_002.DefaultSceneRoot' which is static to it. Aborting.
+[2022.04.06-10.24.31:541][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.06-10.24.31:542][  0]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-1708.795 Y=-0.000 Z=10.000, usually the RecastNavMesh location) not being aligned with tile size (1000 uu) 
+[2022.04.06-10.24.31:553][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.04.06-10.24.31:553][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.06-10.24.31:553][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.147ms to complete.
+[2022.04.06-10.24.31:553][  0]LogFileHelpers: Loading map 'VRTemplateMap' took 0.664
+[2022.04.06-10.24.31:556][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.827
+[2022.04.06-10.24.31:647][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.24.31:651][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.24.31:656][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.24.31:660][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.24.31:671][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0085 seconds. Added 4030 classes and 980 folders.
+[2022.04.06-10.24.31:673][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.04.06-10.24.31:674][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.06-10.24.31:674][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:674][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.06-10.24.31:674][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:674][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.04.06-10.24.31:674][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.04.06-10.24.31:674][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.06-10.24.31:674][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:674][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.06-10.24.31:674][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:674][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.04.06-10.24.31:674][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.04.06-10.24.31:675][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.04.06-10.24.31:675][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:675][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.04.06-10.24.31:675][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:675][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.04.06-10.24.31:675][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.04.06-10.24.31:675][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.06-10.24.31:675][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:675][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.06-10.24.31:675][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:675][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.04.06-10.24.31:675][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.04.06-10.24.31:675][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.06-10.24.31:675][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:675][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.06-10.24.31:675][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:675][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.04.06-10.24.31:675][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.04.06-10.24.31:676][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.06-10.24.31:676][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:676][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.06-10.24.31:676][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:676][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.04.06-10.24.31:676][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.04.06-10.24.31:677][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.06-10.24.31:677][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:677][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.06-10.24.31:677][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:677][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.04.06-10.24.31:677][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.04.06-10.24.31:677][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.06-10.24.31:677][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:677][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.06-10.24.31:677][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:677][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.04.06-10.24.31:677][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.04.06-10.24.31:677][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.06-10.24.31:677][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:677][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.06-10.24.31:677][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:677][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.04.06-10.24.31:677][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.04.06-10.24.31:678][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.06-10.24.31:678][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:678][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.06-10.24.31:678][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:678][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.04.06-10.24.31:678][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.04.06-10.24.31:678][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.06-10.24.31:678][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:678][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.06-10.24.31:678][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:678][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.04.06-10.24.31:678][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.04.06-10.24.31:678][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.06-10.24.31:678][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:678][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.06-10.24.31:678][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:678][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.04.06-10.24.31:678][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.04.06-10.24.31:679][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.06-10.24.31:679][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:679][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.06-10.24.31:679][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:679][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.04.06-10.24.31:679][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.04.06-10.24.31:679][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.06-10.24.31:679][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:679][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.06-10.24.31:679][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:679][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.04.06-10.24.31:679][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.04.06-10.24.31:679][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.06-10.24.31:679][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:679][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.06-10.24.31:679][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:679][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.04.06-10.24.31:679][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.04.06-10.24.31:680][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.06-10.24.31:680][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:680][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.06-10.24.31:680][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:680][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.04.06-10.24.31:680][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.04.06-10.24.31:680][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.06-10.24.31:680][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:680][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.06-10.24.31:680][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:680][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.04.06-10.24.31:680][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.04.06-10.24.31:680][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.06-10.24.31:680][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:680][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.06-10.24.31:680][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:680][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.04.06-10.24.31:680][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.04.06-10.24.31:680][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.06-10.24.31:680][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:680][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.06-10.24.31:680][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:680][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.04.06-10.24.31:680][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.04.06-10.24.31:680][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.06-10.24.31:680][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:680][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.06-10.24.31:680][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:680][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.04.06-10.24.31:680][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.04.06-10.24.31:681][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.06-10.24.31:681][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:681][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.06-10.24.31:681][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:681][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.04.06-10.24.31:681][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.04.06-10.24.31:681][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.06-10.24.31:681][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:681][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.06-10.24.31:681][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:681][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.04.06-10.24.31:681][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.04.06-10.24.31:681][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.04.06-10.24.31:681][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:681][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.04.06-10.24.31:681][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:681][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.04.06-10.24.31:681][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.04.06-10.24.31:682][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.06-10.24.31:682][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:682][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.06-10.24.31:682][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:682][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.04.06-10.24.31:682][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.04.06-10.24.31:682][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.06-10.24.31:682][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:682][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.06-10.24.31:682][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:682][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.04.06-10.24.31:682][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.04.06-10.24.31:682][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.06-10.24.31:682][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-10.24.31:682][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.06-10.24.31:682][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-10.24.31:682][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.04.06-10.24.31:682][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.04.06-10.24.31:713][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.04.06-10.24.31:760][  0]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.06-10.24.31:761][  0]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.04.06-10.24.31:763][  0]LogSlate: Took 0.000085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.04.06-10.24.31:821][  0]LogRenderer: Reallocating scene render targets to support 672x348 Format 10 NumSamples 4 (Frame:1).
+[2022.04.06-10.24.31:920][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.04.06-10.24.31:920][  0]LogLoad: (Engine Initialization) Total time: 6.19 seconds
+[2022.04.06-10.24.31:920][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.04.06-10.24.31:938][  0]LogOcInput: OculusInput is initialized
+[2022.04.06-10.24.31:983][  0]LogAssetRegistry: Asset discovery search completed in 4.0205 seconds
+[2022.04.06-10.24.31:987][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.04.06-10.24.32:006][  0]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.04.06-10.24.32:008][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.04.06-10.24.32:045][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Content/' took 0.10s
+[2022.04.06-10.24.32:108][  2]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.06-10.24.37:228][308]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
+[2022.04.06-10.27.43:304][471]LogRenderer: Reallocating scene render targets to support 672x356 Format 10 NumSamples 4 (Frame:11411).
+[2022.04.06-10.27.43:321][472]LogRenderer: Reallocating scene render targets to support 672x360 Format 10 NumSamples 4 (Frame:11413).
+[2022.04.06-10.27.43:338][473]LogRenderer: Reallocating scene render targets to support 672x364 Format 10 NumSamples 4 (Frame:11415).
+[2022.04.06-10.27.43:356][474]LogRenderer: Reallocating scene render targets to support 672x368 Format 10 NumSamples 4 (Frame:11417).
+[2022.04.06-10.27.43:374][475]LogRenderer: Reallocating scene render targets to support 672x372 Format 10 NumSamples 4 (Frame:11419).
+[2022.04.06-10.27.43:387][476]LogRenderer: Reallocating scene render targets to support 672x376 Format 10 NumSamples 4 (Frame:11421).
+[2022.04.06-10.27.43:422][478]LogRenderer: Reallocating scene render targets to support 672x380 Format 10 NumSamples 4 (Frame:11425).
+[2022.04.06-10.27.43:439][479]LogRenderer: Reallocating scene render targets to support 672x384 Format 10 NumSamples 4 (Frame:11427).
+[2022.04.06-10.27.43:456][480]LogRenderer: Reallocating scene render targets to support 672x388 Format 10 NumSamples 4 (Frame:11429).
+[2022.04.06-10.27.43:475][481]LogRenderer: Reallocating scene render targets to support 672x392 Format 10 NumSamples 4 (Frame:11431).
+[2022.04.06-10.27.43:490][482]LogRenderer: Reallocating scene render targets to support 672x400 Format 10 NumSamples 4 (Frame:11433).
+[2022.04.06-10.27.43:509][483]LogRenderer: Reallocating scene render targets to support 672x404 Format 10 NumSamples 4 (Frame:11435).
+[2022.04.06-10.27.43:524][484]LogRenderer: Reallocating scene render targets to support 672x412 Format 10 NumSamples 4 (Frame:11437).
+[2022.04.06-10.27.43:539][485]LogRenderer: Reallocating scene render targets to support 672x416 Format 10 NumSamples 4 (Frame:11439).
+[2022.04.06-10.27.43:556][486]LogRenderer: Reallocating scene render targets to support 672x420 Format 10 NumSamples 4 (Frame:11441).
+[2022.04.06-10.27.43:607][489]LogRenderer: Reallocating scene render targets to support 672x424 Format 10 NumSamples 4 (Frame:11447).
+[2022.04.06-10.27.43:660][492]LogRenderer: Reallocating scene render targets to support 672x428 Format 10 NumSamples 4 (Frame:11453).
+[2022.04.06-10.27.43:677][493]LogRenderer: Reallocating scene render targets to support 672x432 Format 10 NumSamples 4 (Frame:11455).
+[2022.04.06-10.27.43:711][495]LogRenderer: Reallocating scene render targets to support 672x436 Format 10 NumSamples 4 (Frame:11459).
+[2022.04.06-10.27.43:745][497]LogRenderer: Reallocating scene render targets to support 672x440 Format 10 NumSamples 4 (Frame:11463).
+[2022.04.06-10.27.43:777][499]LogRenderer: Reallocating scene render targets to support 672x444 Format 10 NumSamples 4 (Frame:11467).
+[2022.04.06-10.27.46:994][692]LogRenderer: Reallocating scene render targets to support 676x444 Format 10 NumSamples 4 (Frame:11632).
+[2022.04.06-10.27.47:029][694]LogRenderer: Reallocating scene render targets to support 680x444 Format 10 NumSamples 4 (Frame:11636).
+[2022.04.06-10.27.47:043][695]LogRenderer: Reallocating scene render targets to support 684x444 Format 10 NumSamples 4 (Frame:11638).
+[2022.04.06-10.27.47:078][697]LogRenderer: Reallocating scene render targets to support 688x444 Format 10 NumSamples 4 (Frame:11642).
+[2022.04.06-10.27.47:096][698]LogRenderer: Reallocating scene render targets to support 692x444 Format 10 NumSamples 4 (Frame:11644).
+[2022.04.06-10.27.47:125][700]LogRenderer: Reallocating scene render targets to support 696x444 Format 10 NumSamples 4 (Frame:11648).
+[2022.04.06-10.27.47:141][701]LogRenderer: Reallocating scene render targets to support 700x444 Format 10 NumSamples 4 (Frame:11650).
+[2022.04.06-10.27.47:159][702]LogRenderer: Reallocating scene render targets to support 704x444 Format 10 NumSamples 4 (Frame:11652).
+[2022.04.06-10.27.47:177][703]LogRenderer: Reallocating scene render targets to support 712x444 Format 10 NumSamples 4 (Frame:11654).
+[2022.04.06-10.27.47:196][704]LogRenderer: Reallocating scene render targets to support 724x444 Format 10 NumSamples 4 (Frame:11656).
+[2022.04.06-10.27.47:212][705]LogRenderer: Reallocating scene render targets to support 728x444 Format 10 NumSamples 4 (Frame:11658).
+[2022.04.06-10.27.47:226][706]LogRenderer: Reallocating scene render targets to support 732x444 Format 10 NumSamples 4 (Frame:11660).
+[2022.04.06-10.27.47:306][711]LogRenderer: Reallocating scene render targets to support 736x444 Format 10 NumSamples 4 (Frame:11668).
+[2022.04.06-10.33.59:436][ 38]LogTemp: Repeating last play command: VR Preview
+[2022.04.06-10.33.59:444][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.06-10.33.59:447][ 38]PIE: New page: PIE session: VRTemplateMap (Apr 6, 2022, 2:33:59 PM)
+[2022.04.06-10.33.59:481][ 38]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.04.06-10.33.59:483][ 38]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.06-10.33.59:484][ 38]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.04.06-10.33.59:508][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023924s)
+[2022.04.06-10.33.59:509][ 38]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.04.06-10.33.59:510][ 38]LogPlayLevel: PIE: World Init took: (0.002050s)
+[2022.04.06-10.33.59:510][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.026466s)
+[2022.04.06-10.33.59:516][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.04.06-10.33.59:519][ 38]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.06-10.33.59:519][ 38]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.06-10.33.59:519][ 38]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.06-10.33.59:519][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.06-10.33.59:519][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.06-10.33.59:519][ 38]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.04.06-10.33.59:519][ 38]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.06-10.33.59:520][ 38]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.04.06-10.33.59:520][ 38]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.06-10.33.59:520][ 38]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.04.06-10.33.59:520][ 38]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.04.06-10.33.59:520][ 38]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.06-10.33.59:520][ 38]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.06-10.33.59:521][ 38]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-10.33.59:521][ 38]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-10.33.59:522][ 38]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-10.33.59:522][ 38]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-10.33.59:524][ 38]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.04.06-10.33.59:525][ 38]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.06-10.33.59:525][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.06-10.33.59:525][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.06-10.33.59:526][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.06-10.33.59:526][ 38]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.06-10.33.59:526][ 38]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.06-10.33.59:527][ 38]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.06-10.33.59:527][ 38]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.06-10.33.59:527][ 38]LogInit: FAudioDevice initialized.
+[2022.04.06-10.33.59:527][ 38]LogAudio: Display: Audio Device (ID: 2) registered with world 'VRTemplateMap'.
+[2022.04.06-10.33.59:536][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.33.59:543][ 38]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2022.04.06-10.33.59:574][ 38]LogLoad: Game class is 'VRGameMode_C'
+[2022.04.06-10.33.59:585][ 38]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.04.06-12.33.59
+[2022.04.06-10.33.59:587][ 38]LogWorld: Bringing up level for play took: 0.007788
+[2022.04.06-10.33.59:588][ 38]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2022.04.06-10.33.59:594][ 38]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.06-10.33.59:597][ 38]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.04.06-10.33.59:607][ 38]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.33.59:608][ 38]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.33.59:621][ 38]PIE: Server logged in
+[2022.04.06-10.33.59:622][ 38]PIE: Play in editor total start time 0.18 seconds.
+[2022.04.06-10.33.59:624][ 38]LogEngine: Changing dynamic resolution state.
+[2022.04.06-10.33.59:643][ 38]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.04.06-10.33.59:646][ 38]LogRenderer: Warning: Resizing VR buffer to 3648 by 1840
+[2022.04.06-10.33.59:646][ 38]LogRenderer: Reallocating scene render targets to support 3648x1840 Format 10 NumSamples 4 (Frame:1).
+[2022.04.06-10.33.59:646][ 38]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2022.04.06-10.34.36:578][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.34.36:578][607]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.04.06-10.34.36:601][607]LogSlate: Window 'P8_VR_Home Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.04.06-10.34.36:639][607]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-10.34.36:641][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-10.34.36:651][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.06-10.34.36:653][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-10.34.36:659][607]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.06-10.34.36:659][607]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.04.06-10.34.36:659][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-10.34.36:660][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-10.34.36:665][607]LogSlate: Slate User Unregistered.  User Index 8
+[2022.04.06-10.34.36:665][607]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.34.36:666][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.04.06-10.34.36:678][608]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.04.06-10.34.36:686][608]LogEngine: Changing dynamic resolution state.
+[2022.04.06-10.34.41:735][842]LogEditorViewport: Clicking on Actor (LMB): VentsButton_C (VentsButton)
+[2022.04.06-10.34.49:104][193]LogEditorViewport: Clicking on Actor (LMB): BlindsButton_C (BlindsButton)
+[2022.04.06-10.34.53:485][403]LogPhysics: Warning: Scale for /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.BlindsButton_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.04.06-10.34.53:485][403]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.BlindsButton_2.StaticMesh' 
+[2022.04.06-10.34.53:486][403]LogPhysics: Warning: Scale for /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.BlindsButton_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.04.06-10.34.53:486][403]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.BlindsButton_2.StaticMesh' 
+[2022.04.06-10.34.53:486][403]LogPhysics: Warning: Scale for /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.BlindsButton_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.04.06-10.34.53:486][403]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.BlindsButton_2.StaticMesh' 
+[2022.04.06-10.34.53:500][404]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.BlindsButton_2.StaticMesh)
+[2022.04.06-10.34.53:500][404]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.BlindsButton_2.StaticMesh)
+[2022.04.06-10.35.03:327][882]LogTemp: Repeating last play command: VR Preview
+[2022.04.06-10.35.03:331][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.06-10.35.03:331][882]LogHMD: Initializing OVRPlugin session
+[2022.04.06-10.35.03:447][882]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2022.04.06-10.35.03:448][882]PIE: New page: PIE session: VRTemplateMap (Apr 6, 2022, 2:35:03 PM)
+[2022.04.06-10.35.03:449][882]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.04.06-10.35.03:470][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021977s)
+[2022.04.06-10.35.03:471][882]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.04.06-10.35.03:472][882]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2022.04.06-10.35.03:472][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.023217s)
+[2022.04.06-10.35.03:476][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.04.06-10.35.03:477][882]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.06-10.35.03:477][882]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.06-10.35.03:477][882]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.06-10.35.03:477][882]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.06-10.35.03:477][882]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.06-10.35.03:477][882]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.04.06-10.35.03:477][882]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.06-10.35.03:477][882]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.04.06-10.35.03:477][882]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.06-10.35.03:477][882]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.04.06-10.35.03:477][882]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.04.06-10.35.03:477][882]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.06-10.35.03:477][882]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.06-10.35.03:478][882]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-10.35.03:478][882]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-10.35.03:479][882]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-10.35.03:479][882]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-10.35.03:481][882]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.04.06-10.35.03:481][882]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.06-10.35.03:481][882]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.06-10.35.03:481][882]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.06-10.35.03:482][882]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.06-10.35.03:482][882]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.06-10.35.03:482][882]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.06-10.35.03:483][882]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.06-10.35.03:483][882]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.06-10.35.03:483][882]LogInit: FAudioDevice initialized.
+[2022.04.06-10.35.03:483][882]LogAudio: Display: Audio Device (ID: 3) registered with world 'VRTemplateMap'.
+[2022.04.06-10.35.03:490][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.35.03:496][882]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2022.04.06-10.35.03:524][882]LogLoad: Game class is 'VRGameMode_C'
+[2022.04.06-10.35.03:531][882]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.04.06-12.35.03
+[2022.04.06-10.35.03:531][882]LogWorld: Bringing up level for play took: 0.006628
+[2022.04.06-10.35.03:531][882]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2022.04.06-10.35.03:532][882]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.06-10.35.03:533][882]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.35.03:535][882]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.35.03:542][882]PIE: Server logged in
+[2022.04.06-10.35.03:543][882]PIE: Play in editor total start time 0.212 seconds.
+[2022.04.06-10.35.03:545][882]LogEngine: Changing dynamic resolution state.
+[2022.04.06-10.35.03:546][882]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2022.04.06-10.35.03:555][882]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.04.06-10.35.10:216][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.35.10:216][352]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.04.06-10.35.10:240][352]LogSlate: Window 'P8_VR_Home Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.04.06-10.35.10:269][352]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-10.35.10:270][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-10.35.10:279][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.06-10.35.10:286][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-10.35.10:291][352]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.06-10.35.10:291][352]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.04.06-10.35.10:291][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-10.35.10:292][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-10.35.10:296][352]LogSlate: Slate User Unregistered.  User Index 8
+[2022.04.06-10.35.10:296][352]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.35.10:297][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.04.06-10.35.10:318][353]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.04.06-10.35.10:324][353]LogEngine: Changing dynamic resolution state.
+[2022.04.06-10.35.14:160][528]LogEditorViewport: Clicking on Actor (LMB): VentsButton_C (VentsButton)
+[2022.04.06-10.35.22:234][907]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.06-10.35.22:249][907]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/MyStuff/VentsButton.VentsButton
+[2022.04.06-10.35.22:432][907]LogEnum: Warning: Enum name collision: 'GrabType::NewEnumerator0' is in both '/Game/ScriptsBluePrints/VRTemplate/Blueprints/GrabType.GrabType' and '/Game/VRTemplate/Blueprints/GrabType.GrabType'
+[2022.04.06-10.35.22:432][907]LogEnum: Warning: Enum name collision: 'GrabType::NewEnumerator4' is in both '/Game/ScriptsBluePrints/VRTemplate/Blueprints/GrabType.GrabType' and '/Game/VRTemplate/Blueprints/GrabType.GrabType'
+[2022.04.06-10.35.22:432][907]LogEnum: Warning: Enum name collision: 'GrabType::NewEnumerator1' is in both '/Game/ScriptsBluePrints/VRTemplate/Blueprints/GrabType.GrabType' and '/Game/VRTemplate/Blueprints/GrabType.GrabType'
+[2022.04.06-10.35.22:432][907]LogEnum: Warning: Enum name collision: 'GrabType::NewEnumerator3' is in both '/Game/ScriptsBluePrints/VRTemplate/Blueprints/GrabType.GrabType' and '/Game/VRTemplate/Blueprints/GrabType.GrabType'
+[2022.04.06-10.35.22:432][907]LogEnum: Warning: Enum name collision: 'GrabType::GrabType_MAX' is in both '/Game/ScriptsBluePrints/VRTemplate/Blueprints/GrabType.GrabType' and '/Game/VRTemplate/Blueprints/GrabType.GrabType'
+[2022.04.06-10.35.22:432][907]LogEnum: Warning: Enum name collision: 'GrabType::NewEnumerator0' is in both '/Game/ScriptsBluePrints/VRTemplate/Blueprints/GrabType.GrabType' and '/Game/VRTemplate/Blueprints/GrabType.GrabType'
+[2022.04.06-10.35.22:432][907]LogEnum: Warning: Enum name collision: 'GrabType::NewEnumerator4' is in both '/Game/ScriptsBluePrints/VRTemplate/Blueprints/GrabType.GrabType' and '/Game/VRTemplate/Blueprints/GrabType.GrabType'
+[2022.04.06-10.35.22:432][907]LogEnum: Warning: Enum name collision: 'GrabType::NewEnumerator1' is in both '/Game/ScriptsBluePrints/VRTemplate/Blueprints/GrabType.GrabType' and '/Game/VRTemplate/Blueprints/GrabType.GrabType'
+[2022.04.06-10.35.22:432][907]LogEnum: Warning: Enum name collision: 'GrabType::NewEnumerator3' is in both '/Game/ScriptsBluePrints/VRTemplate/Blueprints/GrabType.GrabType' and '/Game/VRTemplate/Blueprints/GrabType.GrabType'
+[2022.04.06-10.35.22:714][907]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.04.06-10.35.23:435][907]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.06-10.35.23:503][908]LogSlate: Took 0.003873 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.06-10.35.26:236][ 31]LogSlate: Window 'VentsButton' being destroyed
+[2022.04.06-10.35.45:081][929]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.VentsButton_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.062 Y=0.000 Z=0.562
+[2022.04.06-10.35.45:081][929]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.06-10.35.45:081][929]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.06-10.35.45:081][929]LogPhysics: Warning: Scale for /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.VentsButton_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.133 Y=0.000 Z=0.070
+[2022.04.06-10.35.45:081][929]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.06-10.35.45:081][929]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.06-10.35.45:081][929]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.VentsButton_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.062 Y=0.000 Z=0.562
+[2022.04.06-10.35.45:081][929]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.06-10.35.45:081][929]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.06-10.35.45:097][930]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.VentsButton_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.062 Y=0.000 Z=0.562
+[2022.04.06-10.35.45:097][930]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.06-10.35.45:097][930]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.06-10.35.45:097][930]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.VentsButton_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.062 Y=0.000 Z=0.562
+[2022.04.06-10.35.45:098][930]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.06-10.35.45:098][930]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.06-10.35.45:098][930]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.VentsButton_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.062 Y=0.000 Z=0.562
+[2022.04.06-10.35.45:098][930]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.06-10.35.45:098][930]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.06-10.35.45:127][931]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.VentsButton_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.062 Y=0.000 Z=0.562
+[2022.04.06-10.35.45:127][931]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.06-10.35.45:127][931]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.06-10.35.45:127][931]LogPhysics: Warning: Scale for /Engine/Transient.World_0:PersistentLevel.VentsButton_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.062 Y=0.000 Z=0.562
+[2022.04.06-10.35.45:127][931]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.04.06-10.35.45:127][931]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2022.04.06-10.35.47:449][ 43]LogEditorTransaction: Undo Modify Component(s)
+[2022.04.06-10.36.09:742][103]BlueprintLog: New page: Compile VentsButton
+[2022.04.06-10.36.09:786][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.04.06-10.36.09:816][103]LogSlate: Took 0.005457 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.06-10.36.15:398][365]LogTemp: Repeating last play command: VR Preview
+[2022.04.06-10.36.15:404][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.06-10.36.15:404][365]LogHMD: Initializing OVRPlugin session
+[2022.04.06-10.36.15:521][365]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2022.04.06-10.36.15:522][365]PIE: New page: PIE session: VRTemplateMap (Apr 6, 2022, 2:36:15 PM)
+[2022.04.06-10.36.15:559][365]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.04.06-10.36.15:582][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022327s)
+[2022.04.06-10.36.15:582][365]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.04.06-10.36.15:582][365]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2022.04.06-10.36.15:582][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.023381s)
+[2022.04.06-10.36.15:599][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.04.06-10.36.15:600][365]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.06-10.36.15:600][365]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.06-10.36.15:600][365]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.06-10.36.15:600][365]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.06-10.36.15:600][365]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.06-10.36.15:600][365]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.04.06-10.36.15:600][365]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.06-10.36.15:600][365]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.04.06-10.36.15:600][365]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.06-10.36.15:600][365]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.04.06-10.36.15:600][365]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.04.06-10.36.15:600][365]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.06-10.36.15:600][365]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.06-10.36.15:601][365]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-10.36.15:601][365]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-10.36.15:602][365]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-10.36.15:602][365]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-10.36.15:605][365]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.04.06-10.36.15:605][365]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.06-10.36.15:605][365]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.06-10.36.15:605][365]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.06-10.36.15:605][365]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.06-10.36.15:605][365]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.06-10.36.15:605][365]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.06-10.36.15:606][365]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.06-10.36.15:606][365]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.06-10.36.15:606][365]LogInit: FAudioDevice initialized.
+[2022.04.06-10.36.15:606][365]LogAudio: Display: Audio Device (ID: 4) registered with world 'VRTemplateMap'.
+[2022.04.06-10.36.15:613][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.36.15:622][365]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2022.04.06-10.36.15:648][365]LogLoad: Game class is 'VRGameMode_C'
+[2022.04.06-10.36.15:655][365]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.04.06-12.36.15
+[2022.04.06-10.36.15:655][365]LogWorld: Bringing up level for play took: 0.006472
+[2022.04.06-10.36.15:655][365]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.04.06-10.36.15:656][365]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.06-10.36.15:657][365]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.36.15:658][365]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.36.15:666][365]PIE: Server logged in
+[2022.04.06-10.36.15:668][365]PIE: Play in editor total start time 0.264 seconds.
+[2022.04.06-10.36.15:668][365]LogEngine: Changing dynamic resolution state.
+[2022.04.06-10.36.15:674][365]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.04.06-10.36.15:691][365]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2022.04.06-10.36.37:764][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.36.37:764][955]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.04.06-10.36.37:779][955]LogSlate: Window 'P8_VR_Home Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.04.06-10.36.37:810][955]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-10.36.37:811][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-10.36.37:819][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.06-10.36.37:828][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-10.36.37:845][955]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.06-10.36.37:845][955]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.04.06-10.36.37:845][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-10.36.37:846][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-10.36.37:849][955]LogSlate: Slate User Unregistered.  User Index 8
+[2022.04.06-10.36.37:849][955]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.36.37:852][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.04.06-10.36.37:873][956]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.04.06-10.36.37:881][956]LogEngine: Changing dynamic resolution state.
+[2022.04.06-10.36.44:544][275]LogEditorViewport: Clicking on Actor (LMB): BlindsButton_C (BlindsButton)
+[2022.04.06-10.36.46:983][394]Cmd: TRANSACTION UNDO
+[2022.04.06-10.36.46:983][394]LogEditorTransaction: Undo Scale Actors
+[2022.04.06-10.37.00:335][ 30]LogTemp: Repeating last play command: VR Preview
+[2022.04.06-10.37.00:340][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.06-10.37.00:340][ 30]LogHMD: Initializing OVRPlugin session
+[2022.04.06-10.37.00:455][ 30]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2022.04.06-10.37.00:457][ 30]PIE: New page: PIE session: VRTemplateMap (Apr 6, 2022, 2:37:00 PM)
+[2022.04.06-10.37.00:457][ 30]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.04.06-10.37.00:479][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022369s)
+[2022.04.06-10.37.00:480][ 30]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.04.06-10.37.00:480][ 30]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2022.04.06-10.37.00:480][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.023321s)
+[2022.04.06-10.37.00:497][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.04.06-10.37.00:497][ 30]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.04.06-10.37.00:497][ 30]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.06-10.37.00:497][ 30]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.06-10.37.00:497][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.06-10.37.00:497][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.06-10.37.00:497][ 30]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.04.06-10.37.00:497][ 30]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.06-10.37.00:497][ 30]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.04.06-10.37.00:497][ 30]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.06-10.37.00:498][ 30]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.04.06-10.37.00:498][ 30]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.04.06-10.37.00:498][ 30]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.06-10.37.00:498][ 30]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.06-10.37.00:499][ 30]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-10.37.00:499][ 30]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-10.37.00:500][ 30]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-10.37.00:500][ 30]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-10.37.00:503][ 30]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.04.06-10.37.00:503][ 30]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.06-10.37.00:503][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.06-10.37.00:503][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.06-10.37.00:504][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.06-10.37.00:504][ 30]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.06-10.37.00:504][ 30]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.06-10.37.00:504][ 30]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.06-10.37.00:504][ 30]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.06-10.37.00:504][ 30]LogInit: FAudioDevice initialized.
+[2022.04.06-10.37.00:504][ 30]LogAudio: Display: Audio Device (ID: 5) registered with world 'VRTemplateMap'.
+[2022.04.06-10.37.00:512][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.37.00:524][ 30]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2022.04.06-10.37.00:548][ 30]LogLoad: Game class is 'VRGameMode_C'
+[2022.04.06-10.37.00:555][ 30]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.04.06-12.37.00
+[2022.04.06-10.37.00:555][ 30]LogWorld: Bringing up level for play took: 0.006591
+[2022.04.06-10.37.00:555][ 30]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.04.06-10.37.00:557][ 30]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.06-10.37.00:558][ 30]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.37.00:559][ 30]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.37.00:567][ 30]PIE: Server logged in
+[2022.04.06-10.37.00:569][ 30]PIE: Play in editor total start time 0.229 seconds.
+[2022.04.06-10.37.00:569][ 30]LogEngine: Changing dynamic resolution state.
+[2022.04.06-10.37.00:576][ 30]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.04.06-10.37.00:590][ 30]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2022.04.06-10.37.21:917][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.37.21:917][551]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.04.06-10.37.21:938][551]LogSlate: Window 'P8_VR_Home Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.04.06-10.37.21:989][551]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-10.37.21:990][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-10.37.22:001][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.06-10.37.22:010][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-10.37.22:026][551]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.06-10.37.22:027][551]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.04.06-10.37.22:027][551]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-10.37.22:028][551]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-10.37.22:032][551]LogSlate: Slate User Unregistered.  User Index 8
+[2022.04.06-10.37.22:032][551]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.37.22:035][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.04.06-10.37.22:056][552]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.04.06-10.37.22:063][552]LogEngine: Changing dynamic resolution state.
+[2022.04.06-10.37.31:429][993]LogEditorViewport: Clicking on Actor (LMB): VentsButton_C (VentsButton)
+[2022.04.06-10.37.41:921][491]LogEditorViewport: Clicking on Actor (LMB): VentsButton_C (VentsButton)
+[2022.04.06-10.37.46:453][700]LogTemp: Repeating last play command: VR Preview
+[2022.04.06-10.37.46:459][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.06-10.37.46:459][700]LogHMD: Initializing OVRPlugin session
+[2022.04.06-10.37.46:571][700]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2022.04.06-10.37.46:572][700]PIE: New page: PIE session: VRTemplateMap (Apr 6, 2022, 2:37:46 PM)
+[2022.04.06-10.37.46:572][700]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.04.06-10.37.46:597][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024405s)
+[2022.04.06-10.37.46:598][700]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.04.06-10.37.46:598][700]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2022.04.06-10.37.46:598][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.025479s)
+[2022.04.06-10.37.46:614][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.04.06-10.37.46:616][700]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.04.06-10.37.46:616][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.06-10.37.46:616][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.06-10.37.46:616][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.06-10.37.46:616][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.06-10.37.46:616][700]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.04.06-10.37.46:616][700]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.06-10.37.46:616][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.04.06-10.37.46:616][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.06-10.37.46:616][700]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.04.06-10.37.46:616][700]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.04.06-10.37.46:616][700]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.06-10.37.46:616][700]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.06-10.37.46:617][700]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-10.37.46:617][700]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-10.37.46:617][700]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-10.37.46:617][700]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-10.37.46:620][700]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.04.06-10.37.46:620][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.06-10.37.46:620][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.06-10.37.46:620][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.06-10.37.46:621][700]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.06-10.37.46:621][700]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.06-10.37.46:621][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.06-10.37.46:622][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.06-10.37.46:622][700]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.06-10.37.46:622][700]LogInit: FAudioDevice initialized.
+[2022.04.06-10.37.46:622][700]LogAudio: Display: Audio Device (ID: 6) registered with world 'VRTemplateMap'.
+[2022.04.06-10.37.46:629][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.37.46:660][700]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2022.04.06-10.37.46:680][700]LogLoad: Game class is 'VRGameMode_C'
+[2022.04.06-10.37.46:687][700]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.04.06-12.37.46
+[2022.04.06-10.37.46:688][700]LogWorld: Bringing up level for play took: 0.006850
+[2022.04.06-10.37.46:688][700]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.04.06-10.37.46:690][700]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.06-10.37.46:690][700]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.37.46:691][700]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.37.46:699][700]PIE: Server logged in
+[2022.04.06-10.37.46:700][700]PIE: Play in editor total start time 0.241 seconds.
+[2022.04.06-10.37.46:701][700]LogEngine: Changing dynamic resolution state.
+[2022.04.06-10.37.46:707][700]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.04.06-10.37.46:724][700]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2022.04.06-10.38.18:820][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.38.18:820][813]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.04.06-10.38.18:838][813]LogSlate: Window 'P8_VR_Home Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.04.06-10.38.18:879][813]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-10.38.18:881][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-10.38.18:889][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.06-10.38.18:898][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-10.38.18:915][813]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.06-10.38.18:915][813]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.04.06-10.38.18:916][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-10.38.18:917][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-10.38.18:921][813]LogSlate: Slate User Unregistered.  User Index 8
+[2022.04.06-10.38.18:921][813]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.38.18:923][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.04.06-10.38.18:947][814]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.04.06-10.38.18:954][814]LogEngine: Changing dynamic resolution state.
+[2022.04.06-10.38.21:894][941]Cmd: TRANSACTION UNDO
+[2022.04.06-10.38.21:894][941]LogEditorTransaction: Undo Set Scale
+[2022.04.06-10.38.22:439][956]Cmd: TRANSACTION UNDO
+[2022.04.06-10.38.22:439][956]LogEditorTransaction: Undo Set Scale
+[2022.04.06-10.38.22:843][975]Cmd: TRANSACTION UNDO
+[2022.04.06-10.38.22:843][975]LogEditorTransaction: Undo Set Scale
+[2022.04.06-10.39.19:998][698]LogEditorViewport: Clicking on Actor (LMB): BlindsButton_C (BlindsButton)
+[2022.04.06-10.39.28:814][113]LogEditorViewport: Clicking on Actor (LMB): VentsButton_C (VentsButton)
+[2022.04.06-10.39.35:576][442]Cmd: TRANSACTION UNDO
+[2022.04.06-10.39.35:576][442]LogEditorTransaction: Undo Move Actors
+[2022.04.06-10.39.42:175][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Group43_2)
+[2022.04.06-10.39.45:506][908]LogEditorViewport: Clicking on Actor (LMB): BlindsButton_C (BlindsButton)
+[2022.04.06-10.39.50:906][158]LogTemp: Repeating last play command: VR Preview
+[2022.04.06-10.39.50:912][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.06-10.39.50:912][158]LogHMD: Initializing OVRPlugin session
+[2022.04.06-10.39.51:027][158]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2022.04.06-10.39.51:029][158]PIE: New page: PIE session: VRTemplateMap (Apr 6, 2022, 2:39:51 PM)
+[2022.04.06-10.39.51:029][158]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.04.06-10.39.51:052][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022604s)
+[2022.04.06-10.39.51:052][158]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.04.06-10.39.51:052][158]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2022.04.06-10.39.51:052][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.023502s)
+[2022.04.06-10.39.51:069][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.04.06-10.39.51:071][158]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.04.06-10.39.51:071][158]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.06-10.39.51:071][158]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.06-10.39.51:071][158]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.06-10.39.51:071][158]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.06-10.39.51:071][158]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.04.06-10.39.51:071][158]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.06-10.39.51:071][158]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.04.06-10.39.51:071][158]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.06-10.39.51:071][158]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.04.06-10.39.51:071][158]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.04.06-10.39.51:071][158]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.06-10.39.51:071][158]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.06-10.39.51:072][158]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-10.39.51:072][158]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-10.39.51:073][158]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-10.39.51:073][158]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-10.39.51:076][158]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.04.06-10.39.51:076][158]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.06-10.39.51:077][158]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.06-10.39.51:077][158]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.06-10.39.51:077][158]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.06-10.39.51:077][158]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.06-10.39.51:077][158]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.06-10.39.51:077][158]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.06-10.39.51:077][158]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.06-10.39.51:077][158]LogInit: FAudioDevice initialized.
+[2022.04.06-10.39.51:077][158]LogAudio: Display: Audio Device (ID: 7) registered with world 'VRTemplateMap'.
+[2022.04.06-10.39.51:085][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.39.51:095][158]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2022.04.06-10.39.51:122][158]LogLoad: Game class is 'VRGameMode_C'
+[2022.04.06-10.39.51:129][158]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.04.06-12.39.51
+[2022.04.06-10.39.51:129][158]LogWorld: Bringing up level for play took: 0.006737
+[2022.04.06-10.39.51:130][158]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.04.06-10.39.51:132][158]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.06-10.39.51:133][158]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.39.51:134][158]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.39.51:143][158]PIE: Server logged in
+[2022.04.06-10.39.51:144][158]PIE: Play in editor total start time 0.233 seconds.
+[2022.04.06-10.39.51:144][158]LogEngine: Changing dynamic resolution state.
+[2022.04.06-10.39.51:151][158]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.04.06-10.39.51:163][158]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2022.04.06-10.40.04:089][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.40.04:089][ 35]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.04.06-10.40.04:113][ 35]LogSlate: Window 'P8_VR_Home Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.04.06-10.40.04:149][ 35]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-10.40.04:150][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-10.40.04:164][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.06-10.40.04:171][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-10.40.04:187][ 35]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.06-10.40.04:187][ 35]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.04.06-10.40.04:187][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-10.40.04:188][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-10.40.04:194][ 35]LogSlate: Slate User Unregistered.  User Index 8
+[2022.04.06-10.40.04:194][ 35]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.40.04:196][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.04.06-10.40.04:219][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.04.06-10.40.04:227][ 36]LogEngine: Changing dynamic resolution state.
+[2022.04.06-10.40.05:992][101]LogEditorViewport: Clicking on Actor (LMB): VentsButton_C (VentsButton)
+[2022.04.06-10.40.11:042][339]Cmd: DELETE
+[2022.04.06-10.40.11:043][339]Cmd: ACTOR DELETE
+[2022.04.06-10.40.11:057][339]LogEditorActor: Deleted Actor: VentsButton_C
+[2022.04.06-10.40.11:072][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.04.06-10.40.11:074][339]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2022.04.06-10.40.49:733][147]LogTemp: Repeating last play command: VR Preview
+[2022.04.06-10.40.49:739][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.06-10.40.49:739][147]LogHMD: Initializing OVRPlugin session
+[2022.04.06-10.40.49:856][147]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2022.04.06-10.40.49:857][147]PIE: New page: PIE session: VRTemplateMap (Apr 6, 2022, 2:40:49 PM)
+[2022.04.06-10.40.49:857][147]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.04.06-10.40.49:880][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022397s)
+[2022.04.06-10.40.49:881][147]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.04.06-10.40.49:881][147]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2022.04.06-10.40.49:881][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.023484s)
+[2022.04.06-10.40.49:899][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.04.06-10.40.49:900][147]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.04.06-10.40.49:900][147]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.06-10.40.49:900][147]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.06-10.40.49:900][147]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.06-10.40.49:900][147]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.06-10.40.49:900][147]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.04.06-10.40.49:900][147]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.06-10.40.49:900][147]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.04.06-10.40.49:900][147]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.06-10.40.49:901][147]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.04.06-10.40.49:901][147]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.04.06-10.40.49:901][147]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.06-10.40.49:901][147]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.06-10.40.49:902][147]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-10.40.49:902][147]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-10.40.49:903][147]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-10.40.49:903][147]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-10.40.49:906][147]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.04.06-10.40.49:906][147]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.06-10.40.49:906][147]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.06-10.40.49:906][147]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.06-10.40.49:906][147]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.06-10.40.49:906][147]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.06-10.40.49:906][147]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.06-10.40.49:907][147]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.06-10.40.49:907][147]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.06-10.40.49:907][147]LogInit: FAudioDevice initialized.
+[2022.04.06-10.40.49:907][147]LogAudio: Display: Audio Device (ID: 8) registered with world 'VRTemplateMap'.
+[2022.04.06-10.40.49:914][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.40.49:934][147]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2022.04.06-10.40.49:955][147]LogLoad: Game class is 'VRGameMode_C'
+[2022.04.06-10.40.49:961][147]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.04.06-12.40.49
+[2022.04.06-10.40.49:961][147]LogWorld: Bringing up level for play took: 0.006411
+[2022.04.06-10.40.49:962][147]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.04.06-10.40.49:964][147]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.06-10.40.49:965][147]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.40.49:966][147]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.40.49:973][147]PIE: Server logged in
+[2022.04.06-10.40.49:975][147]PIE: Play in editor total start time 0.237 seconds.
+[2022.04.06-10.40.49:976][147]LogEngine: Changing dynamic resolution state.
+[2022.04.06-10.40.49:982][147]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.04.06-10.40.49:998][147]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2022.04.06-10.40.58:929][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.40.58:929][780]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.04.06-10.40.58:952][780]LogSlate: Window 'P8_VR_Home Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.04.06-10.40.58:990][780]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-10.40.58:991][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-10.40.58:996][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.06-10.40.59:004][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-10.40.59:021][780]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.06-10.40.59:021][780]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.04.06-10.40.59:021][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-10.40.59:023][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-10.40.59:028][780]LogSlate: Slate User Unregistered.  User Index 8
+[2022.04.06-10.40.59:028][780]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.40.59:030][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.04.06-10.40.59:053][781]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.04.06-10.40.59:060][781]LogEngine: Changing dynamic resolution state.
+[2022.04.06-10.41.23:086][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.04.06-10.41.23:182][891]LogSavePackage: Moving '../../../../../../Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/VRTemplateMap_Auto1444D5C784016017224D112ABDB0551FF.tmp' to '../../../../../../Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap'
+[2022.04.06-10.41.23:184][891]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.114
+[2022.04.06-10.41.23:184][891]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.114
+[2022.04.06-10.41.49:858][159]Cmd: TRANSACTION UNDO
+[2022.04.06-10.41.49:858][159]LogEditorTransaction: Undo Move Actors
+[2022.04.06-10.41.50:255][170]Cmd: TRANSACTION UNDO
+[2022.04.06-10.41.50:255][170]LogEditorTransaction: Undo Move Actors
+[2022.04.06-10.42.29:615][ 24]LogTemp: Repeating last play command: VR Preview
+[2022.04.06-10.42.29:621][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.06-10.42.29:621][ 24]LogHMD: Initializing OVRPlugin session
+[2022.04.06-10.42.29:733][ 24]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2022.04.06-10.42.29:734][ 24]PIE: New page: PIE session: VRTemplateMap (Apr 6, 2022, 2:42:29 PM)
+[2022.04.06-10.42.29:735][ 24]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.04.06-10.42.29:758][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022591s)
+[2022.04.06-10.42.29:758][ 24]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.04.06-10.42.29:759][ 24]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2022.04.06-10.42.29:759][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.023750s)
+[2022.04.06-10.42.29:775][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.04.06-10.42.29:776][ 24]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.04.06-10.42.29:776][ 24]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.06-10.42.29:776][ 24]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.06-10.42.29:776][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.06-10.42.29:776][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.06-10.42.29:776][ 24]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.04.06-10.42.29:776][ 24]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.06-10.42.29:776][ 24]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.04.06-10.42.29:776][ 24]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.06-10.42.29:776][ 24]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.04.06-10.42.29:776][ 24]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.04.06-10.42.29:776][ 24]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.06-10.42.29:776][ 24]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.06-10.42.29:777][ 24]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-10.42.29:777][ 24]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-10.42.29:778][ 24]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-10.42.29:778][ 24]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-10.42.29:781][ 24]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.04.06-10.42.29:781][ 24]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.06-10.42.29:781][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.06-10.42.29:781][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.06-10.42.29:782][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.06-10.42.29:782][ 24]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.06-10.42.29:782][ 24]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.06-10.42.29:783][ 24]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.06-10.42.29:783][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.06-10.42.29:783][ 24]LogInit: FAudioDevice initialized.
+[2022.04.06-10.42.29:783][ 24]LogAudio: Display: Audio Device (ID: 9) registered with world 'VRTemplateMap'.
+[2022.04.06-10.42.29:789][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.42.29:801][ 24]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2022.04.06-10.42.29:829][ 24]LogLoad: Game class is 'VRGameMode_C'
+[2022.04.06-10.42.29:838][ 24]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.04.06-12.42.29
+[2022.04.06-10.42.29:838][ 24]LogWorld: Bringing up level for play took: 0.007740
+[2022.04.06-10.42.29:838][ 24]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.04.06-10.42.29:840][ 24]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.06-10.42.29:841][ 24]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.42.29:842][ 24]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.42.29:851][ 24]PIE: Server logged in
+[2022.04.06-10.42.29:852][ 24]PIE: Play in editor total start time 0.231 seconds.
+[2022.04.06-10.42.29:852][ 24]LogEngine: Changing dynamic resolution state.
+[2022.04.06-10.42.29:859][ 24]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.04.06-10.42.29:862][ 24]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2022.04.06-10.42.56:597][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.42.56:597][892]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.04.06-10.42.56:621][892]LogSlate: Window 'P8_VR_Home Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.04.06-10.42.56:659][892]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-10.42.56:660][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-10.42.56:666][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.06-10.42.56:674][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-10.42.56:691][892]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.06-10.42.56:691][892]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.04.06-10.42.56:691][892]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-10.42.56:693][892]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-10.42.56:699][892]LogSlate: Slate User Unregistered.  User Index 8
+[2022.04.06-10.42.56:699][892]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.42.56:701][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.04.06-10.42.56:723][893]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.04.06-10.42.56:788][893]LogEngine: Changing dynamic resolution state.
+[2022.04.06-10.42.57:963][946]LogTemp: Repeating last play command: VR Preview
+[2022.04.06-10.42.57:969][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.06-10.42.57:969][946]LogHMD: Initializing OVRPlugin session
+[2022.04.06-10.42.58:072][946]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2022.04.06-10.42.58:073][946]PIE: New page: PIE session: VRTemplateMap (Apr 6, 2022, 2:42:58 PM)
+[2022.04.06-10.42.58:073][946]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.04.06-10.42.58:095][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022015s)
+[2022.04.06-10.42.58:095][946]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.04.06-10.42.58:095][946]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2022.04.06-10.42.58:095][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.022962s)
+[2022.04.06-10.42.58:111][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.04.06-10.42.58:111][946]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.04.06-10.42.58:111][946]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.06-10.42.58:111][946]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.06-10.42.58:111][946]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.06-10.42.58:111][946]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.06-10.42.58:111][946]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.04.06-10.42.58:111][946]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.06-10.42.58:111][946]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.04.06-10.42.58:111][946]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.06-10.42.58:112][946]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.04.06-10.42.58:112][946]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.04.06-10.42.58:112][946]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.06-10.42.58:112][946]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.06-10.42.58:113][946]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-10.42.58:113][946]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-10.42.58:114][946]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-10.42.58:114][946]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-10.42.58:116][946]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.04.06-10.42.58:116][946]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.06-10.42.58:116][946]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.06-10.42.58:116][946]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.06-10.42.58:117][946]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.06-10.42.58:117][946]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.06-10.42.58:117][946]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.06-10.42.58:118][946]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.06-10.42.58:118][946]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.06-10.42.58:118][946]LogInit: FAudioDevice initialized.
+[2022.04.06-10.42.58:119][946]LogAudio: Display: Audio Device (ID: 10) registered with world 'VRTemplateMap'.
+[2022.04.06-10.42.58:125][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.42.58:130][946]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2022.04.06-10.42.58:155][946]LogLoad: Game class is 'VRGameMode_C'
+[2022.04.06-10.42.58:162][946]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.04.06-12.42.58
+[2022.04.06-10.42.58:162][946]LogWorld: Bringing up level for play took: 0.006646
+[2022.04.06-10.42.58:162][946]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.04.06-10.42.58:164][946]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.06-10.42.58:165][946]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.42.58:166][946]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.42.58:174][946]PIE: Server logged in
+[2022.04.06-10.42.58:175][946]PIE: Play in editor total start time 0.207 seconds.
+[2022.04.06-10.42.58:176][946]LogEngine: Changing dynamic resolution state.
+[2022.04.06-10.42.58:177][946]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2022.04.06-10.42.58:187][946]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.04.06-10.43.14:595][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.43.14:595][ 93]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.04.06-10.43.14:620][ 93]LogSlate: Window 'P8_VR_Home Preview [NetMode: Standalone]  (64-bit/Windows) OculusHMD' being destroyed
+[2022.04.06-10.43.14:649][ 93]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-10.43.14:650][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-10.43.14:659][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.06-10.43.14:667][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-10.43.14:684][ 93]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.04.06-10.43.14:684][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-10.43.14:685][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.06-10.43.14:690][ 93]LogSlate: Slate User Unregistered.  User Index 8
+[2022.04.06-10.43.14:690][ 93]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.43.14:693][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.04.06-10.43.14:715][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.04.06-10.43.14:794][ 94]LogEngine: Changing dynamic resolution state.
+[2022.04.06-10.44.28:465][462]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.06-10.45.06:864][267]BlueprintLog: New page: Compile VentsButton
+[2022.04.06-10.45.06:897][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.04.06-10.45.07:330][284]LogSavePackage: Moving '../../../../../../Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Saved/VentsButtonF1919077468820F519FA2284D7F2BC59.tmp' to '../../../../../../Users/dmock/Unreal projects/P8/P8ToBeAnnounced/P8_VR_Home/Content/FirstPersonBP/MyStuff/VentsButton.uasset'
+[2022.04.06-10.45.07:342][284]AssetCheck: New page: Asset Save: VentsButton
+[2022.04.06-10.45.07:342][284]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/MyStuff/VentsButton.VentsButton
+[2022.04.06-10.45.13:753][583]LogTemp: Repeating last play command: VR Preview
+[2022.04.06-10.45.13:759][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.06-10.45.13:759][583]LogHMD: Initializing OVRPlugin session
+[2022.04.06-10.45.13:873][583]LogHMD: Allocating Oculus 3200 x 1600 rendertarget swapchain
+[2022.04.06-10.45.13:874][583]PIE: New page: PIE session: VRTemplateMap (Apr 6, 2022, 2:45:13 PM)
+[2022.04.06-10.45.13:874][583]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.04.06-10.45.13:901][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026122s)
+[2022.04.06-10.45.13:901][583]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.04.06-10.45.13:902][583]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2022.04.06-10.45.13:902][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.027168s)
+[2022.04.06-10.45.13:918][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.04.06-10.45.13:919][583]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.04.06-10.45.13:919][583]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.06-10.45.13:919][583]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.06-10.45.13:919][583]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.06-10.45.13:919][583]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.06-10.45.13:919][583]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.04.06-10.45.13:919][583]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.06-10.45.13:919][583]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.04.06-10.45.13:919][583]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.06-10.45.13:920][583]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.04.06-10.45.13:920][583]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.04.06-10.45.13:920][583]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.06-10.45.13:920][583]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.06-10.45.13:921][583]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-10.45.13:921][583]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-10.45.13:921][583]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-10.45.13:921][583]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-10.45.13:924][583]LogAudioMixer: Display: Using Audio Device Headphones (Oculus Virtual Audio Device)
+[2022.04.06-10.45.13:924][583]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.06-10.45.13:924][583]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.06-10.45.13:924][583]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.06-10.45.13:924][583]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.06-10.45.13:924][583]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.06-10.45.13:924][583]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.06-10.45.13:926][583]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.06-10.45.13:926][583]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.06-10.45.13:926][583]LogInit: FAudioDevice initialized.
+[2022.04.06-10.45.13:926][583]LogAudio: Display: Audio Device (ID: 11) registered with world 'VRTemplateMap'.
+[2022.04.06-10.45.13:932][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-10.45.13:946][583]LogHMD: Allocating Oculus 3648 x 1840 rendertarget swapchain
+[2022.04.06-10.45.13:971][583]LogLoad: Game class is 'VRGameMode_C'
+[2022.04.06-10.45.13:979][583]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.04.06-12.45.13
+[2022.04.06-10.45.13:979][583]LogWorld: Bringing up level for play took: 0.008015
+[2022.04.06-10.45.13:979][583]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.04.06-10.45.13:983][583]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.06-10.45.13:984][583]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.45.13:984][583]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.04.06-10.45.13:994][583]PIE: Server logged in
+[2022.04.06-10.45.13:994][583]PIE: Play in editor total start time 0.236 seconds.
+[2022.04.06-10.45.13:995][583]LogEngine: Changing dynamic resolution state.
+[2022.04.06-10.45.14:002][583]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.04.06-10.45.14:004][583]LogHMD: Allocating Oculus 3648 x 1840 depth rendertarget swapchain
+[2022.04.06-10.45.21:654][ 20]LogOutputDevice: Warning: 
+
+Script Stack (3 frames):
+VentsButton_C.Grab
+VRPawn_C.ExecuteUbergraph_VRPawn
+VRPawn_C.InpActEvt_GrabRight_K2Node_InputActionEvent_0
+
+[2022.04.06-10.45.21:694][ 20]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.040 s
+[2022.04.06-10.45.21:694][ 20]LogOutputDevice: Error: === Handled ensure: ===
+[2022.04.06-10.45.21:694][ 20]LogOutputDevice: Error: 
+[2022.04.06-10.45.21:694][ 20]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Blueprint.cpp] [Line: 904]
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: Type mismatch: Expected VentsButton_C, Found REINST_VentsButton_C_60
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: Stack: 
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa0d8d517 UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffa9f64ef24 UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffa98c8f8de UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffa990e231a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa26b5c41 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa26c1770 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa2694d8d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa266341a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa269497c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa2692573 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa2694d8d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa266341a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa269497c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa2694d8d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa2694184 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa23b19c4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa2693ca3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffa9f34942a UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa065ec64 UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa068eeee UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa0176460 UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa018763c UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa0174c2b UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa0186739 UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffa9f32c06e UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa054410e UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa054d2e4 UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa2a92398 UE4Editor-Core.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa2a927ce UE4Editor-Core.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa2aa40bd UE4Editor-Core.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa05693be UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffaa056faba UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffa9fc5349f UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffa9fc5e2fc UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffa988414c3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffa99142ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ff6495487a0 UE4Editor.exe!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ff649560fcc UE4Editor.exe!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ff6495610ba UE4Editor.exe!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ff6495640dd UE4Editor.exe!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ff649575984 UE4Editor.exe!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ff64957853a UE4Editor.exe!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffb1fd054e0 KERNEL32.DLL!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: [Callstack] 0x00007ffb2086485b ntdll.dll!UnknownFunction []
+[2022.04.06-10.45.21:695][ 20]LogOutputDevice: Error: 
