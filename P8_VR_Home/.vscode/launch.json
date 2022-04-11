@@ -1,0 +1,104 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "P8_VR_Home (Debug)",
+			"request": "launch",
+			"preLaunchTask": "P8_VR_Home Mac Debug Build",
+			"program": "/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/Binaries/Mac/UE4-Mac-Debug.app/Contents/MacOS/UE4-Mac-Debug",
+			"args": [
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_4.27",
+			"type": "lldb"
+		},
+		{
+			"name": "P8_VR_Home (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "P8_VR_Home Mac DebugGame Build",
+			"program": "/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/Binaries/Mac/UE4-Mac-DebugGame.app/Contents/MacOS/UE4-Mac-DebugGame",
+			"args": [
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_4.27",
+			"type": "lldb"
+		},
+		{
+			"name": "P8_VR_Home (Development)",
+			"request": "launch",
+			"preLaunchTask": "P8_VR_Home Mac Development Build",
+			"program": "/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/Binaries/Mac/UE4.app/Contents/MacOS/UE4",
+			"args": [
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_4.27",
+			"type": "lldb"
+		},
+		{
+			"name": "P8_VR_Home (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "P8_VR_Home Mac Shipping Build",
+			"program": "/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/Binaries/Mac/UE4-Mac-Shipping.app/Contents/MacOS/UE4-Mac-Shipping",
+			"args": [
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_4.27",
+			"type": "lldb"
+		},
+		{
+			"name": "P8_VR_Home (Test)",
+			"request": "launch",
+			"preLaunchTask": "P8_VR_Home Mac Test Build",
+			"program": "/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/Binaries/Mac/UE4-Mac-Test.app/Contents/MacOS/UE4-Mac-Test",
+			"args": [
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_4.27",
+			"type": "lldb"
+		},
+		{
+			"name": "P8_VR_HomeEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "P8_VR_HomeEditor Mac Debug Build",
+			"program": "/Users/Shared/Epic Games/UE_4.27/Engine/Binaries/Mac/UE4Editor-Mac-Debug.app/Contents/MacOS/UE4Editor-Mac-Debug",
+			"args": [
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject"
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_4.27",
+			"type": "lldb"
+		},
+		{
+			"name": "P8_VR_HomeEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "P8_VR_HomeEditor Mac DebugGame Build",
+			"program": "/Users/Shared/Epic Games/UE_4.27/Engine/Binaries/Mac/UE4Editor-Mac-DebugGame.app/Contents/MacOS/UE4Editor-Mac-DebugGame",
+			"args": [
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject"
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_4.27",
+			"type": "lldb"
+		},
+		{
+			"name": "P8_VR_HomeEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "P8_VR_HomeEditor Mac Development Build",
+			"program": "/Users/Shared/Epic Games/UE_4.27/Engine/Binaries/Mac/UE4Editor.app/Contents/MacOS/UE4Editor",
+			"args": [
+				"/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject"
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_4.27",
+			"type": "lldb"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "mono",
+			"request": "launch",
+			"program": "/Users/Shared/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe",
+			"console": "internalConsole",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=/Users/msmb/Documents/GitHub/P8ToBeAnnounced/P8_VR_Home/P8_VR_Home.uproject",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "/Users/Shared/Epic Games/UE_4.27"
+		}
+	]
+}
